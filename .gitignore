@@ -29,7 +29,7 @@ local.properties
 *.iml
 .idea/*
 # Forcibly including certain files we want propagated.
-!\.idea/codeStyleSettings.xml
+#!\.idea/codeStyleSettings.xml
 !\.idea/copyright
 
 # Gradle cache
